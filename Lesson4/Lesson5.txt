@@ -1,0 +1,7 @@
+1) တႅမ်ႈ Java Comment တီႈၼႂ်း Project ႁဝ်း
+	1. //
+	2. /* abc */
+	3. /** abc */
+2) float & double datatypes
+3) char datatypes
+4) boolean datatypes

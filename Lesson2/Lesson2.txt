@@ -1,0 +1,5 @@
+1. Install IntelliJ Community Edition IDE (Integrated Development Environment for Java)
+
+2. Print Hello World using IntelliJ
+
+3. Why is using IntelliJ more effient?

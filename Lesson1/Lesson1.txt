@@ -1,0 +1,5 @@
+1. Install JDK (Java Development Kit)
+
+2. Print Hello World with Jshell
+
+3. Print Hello World by creating a java program

@@ -1,0 +1,6 @@
+Java String
+1) ႁဵတ်ႉၼႄ String variable ဢၼ်ၼိုင်ႈ
+2) ၼႄလွင်ႈ လၢၵ်ႇလၢႆး Reference Data type ၵမ်ႈၽွင်ႈ
+3) ၸႅတ်ႈၵႃႊၶၼ် String 2 ဢၼ်ဝႃႈ ၸွင်ႇၶဝ်မိူၼ်ၵၼ်
+4) လၢႆႊ String ႁႂ်ႈပဵၼ် တူဝ်လဵၵ်ႉ ၊ တူဝ်ႇယႂ်ႇ တၢင်းမူတ်း 
+5) String Concatenation

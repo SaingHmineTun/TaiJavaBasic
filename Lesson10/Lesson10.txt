@@ -1,0 +1,10 @@
+Java Operators
+1) Arithmetic Operator
+2) Assignment Operators
+3) Unary Operators
+4) Relational (Comparison) Operators
+5) Logical Operators
+	1. && ( Logical AND )
+	2. || ( Logical OR )
+	3. ! ( Logical NOT )
+6) Ternary Operators
